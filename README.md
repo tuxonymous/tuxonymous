@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tuxonymous aka Daniel #LikeABosch
+- 👋 Hi, I’m @tuxonymous aka Daniel
 - 👀 I’m interested in #security, #python, #django and #cloud.
 - 🌱 I’m currently learning to secure #django-rest-framework.
 - ⚡ Fun fact: I love penguins, doing Krav Maga and playing organ.
